@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognizer-with-Deep-Learning
+# Handwritten Digit Recognition System
