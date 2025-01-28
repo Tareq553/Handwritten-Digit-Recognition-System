@@ -4,7 +4,7 @@
 This **deep learning project** focuses on classifying handwritten digits (0-9) using the MNIST dataset, a benchmark dataset in computer vision. The primary objective is to build and train a neural network to accurately predict the digit represented in a given grayscale image. The project involves preprocessing the data, designing and training a feedforward neural network, and visualizing results to demonstrate performance. This project serves as a showcase of deep learning expertise, including proper documentation, effective data visualization, and a clear workflow.
 
 
-## Motivation
+## Project Objective
 Handwritten digit recognition is a fundamental problem in computer vision and a gateway to understanding neural networks. This project aims to:
 
 - Apply **Deep learning concepts** to a real-world dataset.
