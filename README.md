@@ -38,7 +38,7 @@ Handwritten digit recognition is a fundamental problem in computer vision and a 
   - Visualized sample images from the dataset to confirm preprocessing steps.
   - Used histograms and heatmaps to analyze class distributions and model performance.
  
-- **Neural Network Model**:
+- **Neural Network Model**(Dense neural network):
   - **Architecture**:
      - **Input layer**: Flatten (28x28 pixels → 784 features)
      - **Hidden layers**: Fully connected layers with ReLU activation (128 and 64 units) and Dropout regularization.
